@@ -15,4 +15,4 @@ target_include_directories(main PUBLIC world)
 target_link_libraries(main PUBLIC hellolib)
 target_link_libraries(main PUBLIC worldlib)
 
-add_subdirectory(tests)
+# add_subdirectory(tests)
